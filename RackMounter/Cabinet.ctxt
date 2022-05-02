@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=uSlotsParam\ powerCapacityParam
+comment0.target=Cabinet(int,\ int)
+comment1.params=power
+comment1.target=void\ addPower(int)
+comment2.params=power
+comment2.target=void\ usePower(int)
+comment3.params=dev
+comment3.target=void\ addDevice(Device)
+comment4.params=
+comment4.target=boolean\ atCapacity()
+numComments=5
